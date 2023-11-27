@@ -18,25 +18,15 @@ export class RootElement extends LitElement {
   /** @override */
   render() {
     return html`
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src=/vite.svg class="logo" alt="Vite logo" />
-        </a>
-        <a href="https://lit.dev" target="_blank">
-          <img src=/lit.svg class="logo lit" alt="Lit logo" />
-        </a>
-      </div>
-      <slot></slot>
       <div class="card">
-        <button @click=${this._onClick} part="button">
+        <button @click=${this.#onClick} part="button">
           count is ${this.count}
         </button>
       </div>
-      <p class="read-the-docs">${this.docsHint}</p>
     `;
   }
 
-  _onClick() {
+  #onClick() {
     this.count++;
   }
 
