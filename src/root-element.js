@@ -1,24 +1,18 @@
-import { LitElement, css, html } from 'lit'
+import { LitElement, css, html } from 'lit';
 
-/**
- * An example element.
- *
- * @slot - This element has a slot
- * @csspart button - The button
- */
 export class RootElement extends LitElement {
   /** @override */
   static get properties() {
     return {
       docsHint: { type: String },
       count: { type: Number },
-    }
+    };
   }
 
   constructor() {
-    super()
-    this.docsHint = 'Click on the Vite and Lit logos to learn more'
-    this.count = 0
+    super();
+    this.docsHint = 'Click on the Vite and Lit logos to learn more';
+    this.count = 0;
   }
 
   /** @override */
@@ -39,11 +33,11 @@ export class RootElement extends LitElement {
         </button>
       </div>
       <p class="read-the-docs">${this.docsHint}</p>
-    `
+    `;
   }
 
   _onClick() {
-    this.count++
+    this.count++;
   }
 
   /** @override */
@@ -118,7 +112,7 @@ export class RootElement extends LitElement {
           background-color: #f9f9f9;
         }
       }
-    `
+    `;
   }
 }
 
