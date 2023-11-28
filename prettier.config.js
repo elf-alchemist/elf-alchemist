@@ -13,4 +13,6 @@ export default {
   endOfLine: 'lf',
   htmlWhitespaceSensitivity: 'strict',
   jsxSingleQuote: true,
+  plugins: ['prettier-plugin-tailwindcss'],
+  tailwindConfig: './tailwind.config.js',
 }
