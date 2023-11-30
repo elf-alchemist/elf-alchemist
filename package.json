@@ -16,7 +16,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lit": "^3.1.0"
+    "solid-js": "^1.8.5"
   },
   "devDependencies": {
     "@eslint/js": "^8.54.0",
@@ -27,8 +27,7 @@
     "eslint-config-prettier": "^9.0.0",
     "globals": "^13.23.0",
     "prettier": "^3.1.0",
-    "prettier-plugin-tailwindcss": "^0.5.7",
-    "tailwindcss": "^3.3.5",
-    "vite": "^5.0.4"
+    "vite": "^5.0.0",
+    "vite-plugin-solid": "^2.7.2"
   }
 }
