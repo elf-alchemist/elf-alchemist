@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/elf-alchemist">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vite,tailwind,nodejs,bash,linux,git,neovim,workers&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vite,tailwind,nodejs,bash,linux,git,vscode&theme=dark" />
   </a>
 </div>
 
