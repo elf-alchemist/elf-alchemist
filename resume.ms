@@ -1,8 +1,32 @@
-.TL
-This is a title
+\# Thanks to https://noxz.tech/articles/writing_a_resume_in_groff
+.fam T
+.nr PS 10p
+.nr VS 15p
 
-.AU
-Hi, im the author
+.defcolor headingcolor rgb 0.5f 0.5f 0.5f
+.defcolor linecolor rgb 0.6f 0.6f 0.6f
 
-.PP
-This is a paragraph
+.de heading
+.   nf
+.   ps 14
+.   B "\\$1"
+\h'0n'\v'-1.2n'\
+\m[headingcolor]\
+\l'\\n(.lu\(ul'\
+\m[default]
+.   ps 10
+.   sp -.2
+.   fi
+..
+
+.ce 2
+.ps 18
+.B "Guilherme M. Miranda"
+.ps 10
+.TS
+tab(;) nospaces;
+l rx.
+Natal, RN, Brazil;T{
+.I alchemist.software@proton.me
+T}
+.TE
