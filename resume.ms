@@ -2,10 +2,10 @@
 .fam T
 .nr PS 10p
 .nr VS 15p
-
+.
 .defcolor headingcolor rgb 0.5f 0.5f 0.5f
 .defcolor linecolor rgb 0.6f 0.6f 0.6f
-
+.
 .de heading
 .   nf
 .   ps 14
@@ -22,6 +22,7 @@
 .ce 2
 .ps 18
 .B "Guilherme M. Miranda"
+https://github.com/elf-alchemist
 .ps 10
 .TS
 tab(;) nospaces;
@@ -50,6 +51,10 @@ rW15|lx.
 Worked as a trainee and junior Back-end Web Developer building a company internal tool.
 Comprised of a micro-service oriented, AWS Lambda, NodeJS and Typescript based tech stack,
 running an internal Dashboard application for analysing advertisement performance metrics.
+Gained important communication skills in this position, being the primary actor for
+most of the time I worked in the project, I learned how to communicate information
+with our client, express issues with our lead and knowing when to ask for the help of
+my peers, constantly maintaining productivity.
 .sp 5
 T}
 .TE
