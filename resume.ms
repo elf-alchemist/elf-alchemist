@@ -30,3 +30,10 @@ Natal, RN, Brazil;T{
 .I alchemist.software@proton.me
 T}
 .TE
+
+.heading "Summary"
+.LP
+Hi, I'm Guilherme, a self-taught brazillian programmer with a passion for learning.
+I have developed my personal interest in tech and software since early 2022,
+and have been steadly growing myself as a developer ever since. I'm deeply in love
+with this field and want keep moving forward and improving myself as much as I can.
