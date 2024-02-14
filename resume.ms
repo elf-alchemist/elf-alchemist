@@ -22,12 +22,12 @@
 .ce 2
 .ps 18
 .B "Guilherme M. Miranda"
-https://github.com/elf-alchemist
 .ps 10
+https://github.com/elf-alchemist
 .TS
 tab(;) nospaces;
 l rx.
-Natal, RN, Brazil;T{
+Natal, Rio Grande do Norte, Brazil;T{
 .I alchemist.software@proton.me
 T}
 .TE
@@ -39,6 +39,32 @@ I have developed my personal interest in tech and software since early 2022,
 and have been steadly growing myself as a developer ever since. I'm deeply in love
 with this field and want keep moving forward and improving myself as much as I can.
 
+.heading "Hard Skills"
+.QS
+.BL
+.B "Programming Languages"
+.RS
+HTML/CSS, JavaScript, TypeScript, NodeJS
+.RE
+
+.BL
+.B "Operating System"
+.RS
+Linux (Debian, Ubuntu), Bash scripting
+.RE
+
+.BL
+.B "Software Engineering"
+.RS
+Git (CLI), Github (PRs, Issues, Projects), Atlassian (Bitbucket, Jira)
+.RE
+
+.BL
+.B "Spoken Languages"
+.RS
+American English (Advanced), Brazillian Portuguese (Native)
+.RE
+.QE
 
 .heading "Professional Experience"
 .TS
@@ -46,18 +72,15 @@ tab(;) nospaces;
 rW15|lx.
 \m[default]November 2022 - November 2023\m[linecolor];T{
 .B "Junior Developer, Cactus Systems"
-\(en Natal, Rio Grande do Norte, Brazil
+\(en Natal, Rio Grande do Norte
 .br
 Worked as a trainee and junior Back-end Web Developer building a company internal tool.
 Comprised of a micro-service oriented, AWS Lambda, NodeJS and Typescript based tech stack,
 running an internal Dashboard application for analysing advertisement performance metrics.
-Gained important communication skills in this position, being the primary actor for
-most of the time I worked in the project, I learned how to communicate information
-with our client, express issues with our lead and knowing when to ask for the help of
-my peers, constantly maintaining productivity.
-.sp 5
+Gained important and effective communication skills in this position, being the primary
+actor for most of the time I worked in the project.
+.sp 3
 T}
 .TE
 \m[default]
-
 
