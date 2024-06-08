@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/elf-alchemist">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,bash,linux,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,bash,linux,git&theme=dark" />
   </a>
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
   <a href="https://github.com/elf-alchemist">
