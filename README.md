@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/danieleverest/skill-icons">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,linux,debian,bash,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,linux,debian,bash,git,github&theme=dark" />
   </a>
 </div>
 
